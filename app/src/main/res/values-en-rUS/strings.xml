@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">1718056</string>
+    <string name="alamat">Address</string>
+    <string name="jenis_kelamin">Gender</string>
+    <string name="kota_kelahiran">Hometown</string>
+    <string name="nama_lengkap">Full Name</string>
+    <string name="ttl">Date of Birth</string>
+    <string name="bahasa">Language</string>
+    <string name="perempuan">Female</string>
+    <string name="tgl">February 26, 1999</string>
+    <string name="Follower">FOLLOWERS</string>
+    <string name="Following">FOLLOWINGS</string>
+    <string name="Post">POSTS</string>
+    <string name="Sosmed">SOCIAL MEDIA</string>
+</resources>

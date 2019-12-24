@@ -1,0 +1,24 @@
+<resources>
+
+<!--Untuk Layout Biodata-->
+    <string name="app_name">1718056</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="ttl">Tanggal Lahir</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="alamat">Alamat</string>
+    <string name="kota_kelahiran">Asal</string>
+    <string name="bahasa">Bahasa</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="tgl">26 Februari 1999</string>
+
+<!--Untuk Layout Kontak-->
+    <string name="Post">POSTINGAN</string>
+    <string name="Following">MENGIKUTI</string>
+    <string name="Follower">PENGIKUT</string>
+    <string name="Sosmed">SOSIAL MEDIA</string>
+
+    <string-array name="language_option">
+        <item>English</item>
+        <item>Indonesia</item>
+    </string-array>
+</resources>
